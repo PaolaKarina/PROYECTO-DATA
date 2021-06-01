@@ -1,7 +1,9 @@
 .env
 /img
 /DATA
-df_.df1_farmaDosis.csv
+
+
+df1_farmaDosis.csv
 df2_dosisEntregadas.csv
 df3_unadosis.csv
 df3_unadosis.csv
@@ -10,7 +12,8 @@ df5_edades_unadosis.csv
 df6_edades_unadosis.csv
 df_tripAd_Spain_Restaurants.csv
 df_tablatotal_region_restaurant.csv
-df_tablatotal_region_vacunas.csv.csv
-cleaning_TripAd.ipynb
+df_tablatotal_region_vacunas.csv
+
+vegan_options_GOMERA.jpg
+vegan_options_GOMERA_.JPG
 geo_jason_ccaa.json 
-vegan_options_GOMERA_JPG
