@@ -1,5 +1,6 @@
 .env
-
+.ipynb_checkpoints
+.vscode
 
 
 df1_farmaDosis.csv
